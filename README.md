@@ -1,1 +1,1 @@
-# Alzheimers-Classification
+Alzheimers Disease Classification using SVM (Support Vector Machine)
